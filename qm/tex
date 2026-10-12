@@ -1,0 +1,2 @@
+\bold X=\begin{pmatrix}0&&1\\1&&0\end{pmatrix}\vert x_+\rangle=\frac{1}{\sqrt{2}}\begin{pmatrix}1\\1\end{pmatrix}\vert x_-\rangle=\frac{1}{\sqrt{2}}\begin{pmatrix}1\\-1\end{pmatrix}
+\bold Z=\begin{pmatrix}1&&0\\0&&-1\end{pmatrix}\vert0\rangle=\begin{pmatrix}1\\0\end{pmatrix}\vert1\rangle=\begin{pmatrix}0\\-1\end{pmatrix}
